@@ -1,2 +1,2 @@
-# php72-composer
-PHP 7.2 with composer Docker Image
+# php72-fpm
+PHP 7.2 with FPM Docker Image
